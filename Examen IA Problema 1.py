@@ -3,7 +3,7 @@ import re
 import random
 from collections import deque, defaultdict
 
-# Como output
+# Greedy Best First Search
 def mapa_mexico():
     return {
         'BCN':['BCS', 'Sonora'],
